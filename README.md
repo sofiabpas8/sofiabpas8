@@ -3,7 +3,7 @@
 **Linguist · Philologist · NLP Specialist**
 
 Currently pursuing a Master's degree in Language Analysis and Processing at the University of the Basque Country (UPV/EHU).  
-Scholar of language and related technologies, with a specific interest in NLP, corpus linguistics, and computational approaches to language.
+Scholar of language and related technologies, with a specific interest in NLP and computational approaches to language.
 
 ---
 
