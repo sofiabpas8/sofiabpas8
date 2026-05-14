@@ -35,5 +35,5 @@ Scholar of language and related technologies, with a specific interest in NLP an
 ### Connect
 
 - 📧 [sofia.bpas8@gmail.com](mailto:sofia.bpas8@gmail.com)
-- 💼 [LinkedIn]([https://www.linkedin.com/in/sof%C3%ADa-b-b51126119](https://www.linkedin.com/in/sof%C3%ADa-b-b51126119/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/sof%C3%ADa-b-b51126119/)
 - 📍 San Sebastián, Spain
