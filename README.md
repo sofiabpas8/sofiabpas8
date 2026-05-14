@@ -7,7 +7,7 @@ Scholar of language and related technologies, with a specific interest in NLP an
 
 ---
 
-### Experience
+### Experience in Computational Linguistics
 
 - **NLP Intern at Vicomtech** *(2026 - Present)*
     - Data-to-Text generation tasks
